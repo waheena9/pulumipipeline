@@ -4,7 +4,7 @@ import pulumi
 from pulumi_azure_native import resources
 
 
-location = 'WestEurope'
+location = 'AustraliaEast'
 
 # Create an Azure Resource Group
 resource_group = resources.ResourceGroup('resource_group',
