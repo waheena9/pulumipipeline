@@ -1,6 +1,6 @@
 name: pulumi-pipeline
 runtime:
-  name: python
+  name: devops
   options:
     virtualenv: venv
 description: Pulumi project to create a simple resource group
